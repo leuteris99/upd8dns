@@ -1,0 +1,6 @@
+.git/
+.gitignore
+go.sum
+compose.yml
+LICENSE
+README.md
